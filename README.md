@@ -201,23 +201,15 @@ The exact characteristics of each cluster depend on the final clustering results
 * **Jupyter Notebook**
 
 ---
-
 ## 📁 Project Structure
 
 ```text
-SmartCart-Clustering-System/
+smartcart_customers_system_miniorproject/
 │
 ├── README.md
-├── SmartCart_Clustering.ipynb
-│
-├── dataset/
-│   └── customer_data.csv
-│
-└── images/
-    └── cluster_visualization.png
+├── smartcart_customers.csv
+└── smartcart_customers_system_miniorproject.ipynb
 ```
-
-> Update the filenames above according to the actual files you upload to GitHub.
 
 ---
 
